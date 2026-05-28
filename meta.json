@@ -1,6 +1,6 @@
 {
   "version": "0.0.0",
-  "repository": "https://github.com/djalbat/real-numbers",
+  "repository": "https://github.com/djalbat/algebraic-numbers",
   "dependencies": {
     "equality": "0.0",
     "numbers": "0.0"

@@ -1,6 +1,6 @@
-# Numbers
+# Algebraic Numbers
 
-Real numbers for [Occam](https://occam.science).
+Algebraic numbers for [Occam](https://occam.science).
 
 ## Contact
 
