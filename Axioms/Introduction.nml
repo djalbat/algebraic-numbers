@@ -1,0 +1,15 @@
+Variable r:ℚ
+Variable s:ℚ
+
+Variable c:𝔸
+
+Variable x:ℝ
+Variable p:ℝ
+
+Axiom (AlgebraicIntroduction)
+  Suppose
+    r < s
+    p is a 𝘱𝘰𝘭𝘺𝘯𝘰𝘮𝘪𝘯𝘢𝘭 in x
+    (p[r for x] × p[s for x]) < 0
+  Then
+    ∃!c r < c ∧ c < s ∧ p[c for x] = 0
